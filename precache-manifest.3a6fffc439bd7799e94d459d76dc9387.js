@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c29b6ad377ab0d5496460996125457ad",
+    "revision": "daf0e5111e39b521d659648a92dfde86",
     "url": "/FarzandHandicrafts/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FarzandHandicrafts/static/css/2.da421de5.chunk.css"
   },
   {
-    "revision": "81ee0e6966455ce4fe5a",
+    "revision": "10626691b8328acf8c94",
     "url": "/FarzandHandicrafts/static/css/main.00770f9f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FarzandHandicrafts/static/js/2.a30b4dfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81ee0e6966455ce4fe5a",
-    "url": "/FarzandHandicrafts/static/js/main.90f417ac.chunk.js"
+    "revision": "10626691b8328acf8c94",
+    "url": "/FarzandHandicrafts/static/js/main.8cae536f.chunk.js"
   },
   {
     "revision": "427baa34d0d37ba11ee7",
