@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FarzandHandicrafts/static/css/main.00770f9f.chunk.css",
-    "main.js": "/FarzandHandicrafts/static/js/main.ae1e3684.chunk.js",
-    "main.js.map": "/FarzandHandicrafts/static/js/main.ae1e3684.chunk.js.map",
+    "main.js": "/FarzandHandicrafts/static/js/main.cbb505f2.chunk.js",
+    "main.js.map": "/FarzandHandicrafts/static/js/main.cbb505f2.chunk.js.map",
     "runtime-main.js": "/FarzandHandicrafts/static/js/runtime-main.7b7cc153.js",
     "runtime-main.js.map": "/FarzandHandicrafts/static/js/runtime-main.7b7cc153.js.map",
     "static/css/2.da421de5.chunk.css": "/FarzandHandicrafts/static/css/2.da421de5.chunk.css",
     "static/js/2.f401dc22.chunk.js": "/FarzandHandicrafts/static/js/2.f401dc22.chunk.js",
     "static/js/2.f401dc22.chunk.js.map": "/FarzandHandicrafts/static/js/2.f401dc22.chunk.js.map",
     "index.html": "/FarzandHandicrafts/index.html",
-    "precache-manifest.b35a80d111eb85469da5ffc6612cfa94.js": "/FarzandHandicrafts/precache-manifest.b35a80d111eb85469da5ffc6612cfa94.js",
+    "precache-manifest.e5dfb402794cee882c677d619e7fdf76.js": "/FarzandHandicrafts/precache-manifest.e5dfb402794cee882c677d619e7fdf76.js",
     "service-worker.js": "/FarzandHandicrafts/service-worker.js",
     "static/css/2.da421de5.chunk.css.map": "/FarzandHandicrafts/static/css/2.da421de5.chunk.css.map",
     "static/css/main.00770f9f.chunk.css.map": "/FarzandHandicrafts/static/css/main.00770f9f.chunk.css.map",
@@ -62,7 +62,7 @@
     "static/media/log-in.svg": "/FarzandHandicrafts/static/media/log-in.6c3aec23.svg",
     "static/media/login-illustration.svg": "/FarzandHandicrafts/static/media/login-illustration.60e77202.svg",
     "static/media/logo-light.svg": "/FarzandHandicrafts/static/media/logo-light.0a4fa34e.svg",
-    "static/media/logo.svg": "/FarzandHandicrafts/static/media/logo.f9776f55.svg",
+    "static/media/logo.svg": "/FarzandHandicrafts/static/media/logo.2647364f.svg",
     "static/media/love-illustration.svg": "/FarzandHandicrafts/static/media/love-illustration.58383984.svg",
     "static/media/map-pin.svg": "/FarzandHandicrafts/static/media/map-pin.b2f804bd.svg",
     "static/media/menu.svg": "/FarzandHandicrafts/static/media/menu.ca394ec8.svg",
@@ -106,6 +106,6 @@
     "static/css/2.da421de5.chunk.css",
     "static/js/2.f401dc22.chunk.js",
     "static/css/main.00770f9f.chunk.css",
-    "static/js/main.ae1e3684.chunk.js"
+    "static/js/main.cbb505f2.chunk.js"
   ]
 }
