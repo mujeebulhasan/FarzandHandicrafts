@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/FarzandHandicrafts/static/css/main.00770f9f.chunk.css",
-    "main.js": "/FarzandHandicrafts/static/js/main.8cae536f.chunk.js",
-    "main.js.map": "/FarzandHandicrafts/static/js/main.8cae536f.chunk.js.map",
+    "main.js": "/FarzandHandicrafts/static/js/main.ae1e3684.chunk.js",
+    "main.js.map": "/FarzandHandicrafts/static/js/main.ae1e3684.chunk.js.map",
     "runtime-main.js": "/FarzandHandicrafts/static/js/runtime-main.7b7cc153.js",
     "runtime-main.js.map": "/FarzandHandicrafts/static/js/runtime-main.7b7cc153.js.map",
     "static/css/2.da421de5.chunk.css": "/FarzandHandicrafts/static/css/2.da421de5.chunk.css",
-    "static/js/2.a30b4dfe.chunk.js": "/FarzandHandicrafts/static/js/2.a30b4dfe.chunk.js",
-    "static/js/2.a30b4dfe.chunk.js.map": "/FarzandHandicrafts/static/js/2.a30b4dfe.chunk.js.map",
+    "static/js/2.f401dc22.chunk.js": "/FarzandHandicrafts/static/js/2.f401dc22.chunk.js",
+    "static/js/2.f401dc22.chunk.js.map": "/FarzandHandicrafts/static/js/2.f401dc22.chunk.js.map",
     "index.html": "/FarzandHandicrafts/index.html",
-    "precache-manifest.3a6fffc439bd7799e94d459d76dc9387.js": "/FarzandHandicrafts/precache-manifest.3a6fffc439bd7799e94d459d76dc9387.js",
+    "precache-manifest.b35a80d111eb85469da5ffc6612cfa94.js": "/FarzandHandicrafts/precache-manifest.b35a80d111eb85469da5ffc6612cfa94.js",
     "service-worker.js": "/FarzandHandicrafts/service-worker.js",
     "static/css/2.da421de5.chunk.css.map": "/FarzandHandicrafts/static/css/2.da421de5.chunk.css.map",
     "static/css/main.00770f9f.chunk.css.map": "/FarzandHandicrafts/static/css/main.00770f9f.chunk.css.map",
-    "static/js/2.a30b4dfe.chunk.js.LICENSE.txt": "/FarzandHandicrafts/static/js/2.a30b4dfe.chunk.js.LICENSE.txt",
+    "static/js/2.f401dc22.chunk.js.LICENSE.txt": "/FarzandHandicrafts/static/js/2.f401dc22.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.jpeg": "/FarzandHandicrafts/static/media/AboutUsPage.3722f7e7.jpeg",
     "static/media/AgencyLandingPage.jpeg": "/FarzandHandicrafts/static/media/AgencyLandingPage.df4fcdeb.jpeg",
     "static/media/BlogIndexPage.jpeg": "/FarzandHandicrafts/static/media/BlogIndexPage.7e8818a2.jpeg",
@@ -104,8 +104,8 @@
   "entrypoints": [
     "static/js/runtime-main.7b7cc153.js",
     "static/css/2.da421de5.chunk.css",
-    "static/js/2.a30b4dfe.chunk.js",
+    "static/js/2.f401dc22.chunk.js",
     "static/css/main.00770f9f.chunk.css",
-    "static/js/main.8cae536f.chunk.js"
+    "static/js/main.ae1e3684.chunk.js"
   ]
 }
