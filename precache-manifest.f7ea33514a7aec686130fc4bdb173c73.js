@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daa9d23db55cceefa5ed8e5d5d329979",
+    "revision": "c29b6ad377ab0d5496460996125457ad",
     "url": "/FarzandHandicrafts/index.html"
   },
   {

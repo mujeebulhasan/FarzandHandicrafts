@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FarzandHandicrafts/precache-manifest.9c5bfe27c43d902eabbe852fbe992a55.js"
+  "/FarzandHandicrafts/precache-manifest.f7ea33514a7aec686130fc4bdb173c73.js"
 );
 
 self.addEventListener('message', (event) => {
