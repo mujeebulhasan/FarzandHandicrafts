@@ -27,10 +27,11 @@ export default () => {
       <Hero
         heading={<>Manufacturer & Supplier <HighlightedText>Of Stoles & Sacrves.</HighlightedText></>}
         description="We are the leading manufacturere and supplier of handloom made stoles, scarves and other hand crafted products."
-        imageSrc="https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80"
+        imageSrc="https://storage.googleapis.com/eu-honter/top.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80"
         imageCss={imageCss}
         imageDecoratorBlob={true}
         primaryButtonText="Contact Now"
+        primaryButtonUrl="#contact"
       />
       {/* TabGrid Component also accepts a tabs prop to customize the tabs and its content directly. Please open the TabGrid component file to see the structure of the tabs props.*/}
       <TabGrid
@@ -56,8 +57,9 @@ export default () => {
         buttonRounded={false}
         textOnLeft={false}
         primaryButtonText="Latest Products"
+        primaryButtonUrl="#products"
         imageSrc={
-          "https://images.unsplash.com/photo-1460306855393-0410f61241c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80"
+          "https://storage.googleapis.com/eu-honter/LocalManufacturingUnit.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80"
         }
         imageCss={imageCss}
         imageDecoratorBlob={true}
@@ -66,6 +68,7 @@ export default () => {
       <MainFeature2
         subheading={<Subheading>A Reputed Brand</Subheading>}
         heading={<>Why <HighlightedText>Choose Us ?</HighlightedText></>}
+        description="Product is the first reason why customers choose our business and why they buy our product. We have many long-term and repeated customers who enjoy doing business with us. There are two reasons our clients love us: First, the quality of our products is unmatched. The second reason is our products price is competitive in this industry."
         statistics={[
           {
             key: "Orders",
@@ -81,16 +84,18 @@ export default () => {
           }
         ]}
         primaryButtonText="Contact Now"
-        primaryButtonUrl="https://order.now.com"
+        primaryButtonUrl="#contact"
         imageInsideDiv={false}
-        imageSrc="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEzNzI2fQ&auto=format&fit=crop&w=768&q=80"
+        imageSrc="https://storage.googleapis.com/eu-honter/quality.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEzNzI2fQ&auto=format&fit=crop&w=768&q=80"
         imageCss={Object.assign(tw`bg-cover`, imageCss)}
         imageContainerCss={tw`md:w-1/2 h-auto`}
         imageDecoratorBlob={true}
         imageDecoratorBlobCss={tw`left-1/2 md:w-32 md:h-32 -translate-x-1/2 opacity-25`}
         textOnLeft={true}
       />
-      <ContactUs />
+      <ContactUs 
+        description=""
+      />
       <Footer />
     </AnimationRevealPage>
   );

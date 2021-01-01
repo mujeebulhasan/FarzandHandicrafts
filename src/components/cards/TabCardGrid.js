@@ -159,7 +159,7 @@ export default ({
   return (
     <Container>
       <ContentWithPaddingXl>
-        <HeaderRow>
+        <HeaderRow id="products">
           <Header>{heading}</Header>
           <TabsControl>
             {Object.keys(tabs).map((tabName, index) => (
