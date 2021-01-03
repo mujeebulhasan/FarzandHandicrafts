@@ -26,7 +26,7 @@ export default () => {
     <AnimationRevealPage>
       <Hero
         heading={<>Manufacturer & Supplier <HighlightedText>Of Stoles & Sacrves.</HighlightedText></>}
-        description="We are the leading manufacturere and supplier of handloom made stoles, scarves and other hand crafted products."
+        description="We are the leading manufacturer and supplier of handloom made stoles, scarves and other hand crafted products."
         imageSrc="https://storage.googleapis.com/eu-honter/top.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80"
         imageCss={imageCss}
         imageDecoratorBlob={true}
